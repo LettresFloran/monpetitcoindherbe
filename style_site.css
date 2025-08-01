@@ -38,6 +38,14 @@ h1 {
     color: #555;
     letter-spacing: 0.05em;
 }
+
+.com {
+    font-style: italic;
+    font-size: 1rem;
+    color: #555;
+    letter-spacing: 0.05em;
+}
+
 .button {
   background-color: white;
   border: 1px solid #ccc;
@@ -46,7 +54,7 @@ h1 {
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 14px;
+  font-size: 15px;
   margin: 2px;
   cursor: pointer;
   border-radius: 4px;
@@ -85,10 +93,15 @@ main {
 }
 
 .intro p {
-    margin-bottom: 2rem;
+    margin-bottom: 1.5rem;
     font-style: italic;
+	font-size: 18px;
     color: #444;
+	text-indent: 20px
 }
+
+
+
 
 .latest-papiers h2 {
     margin-bottom: 1rem;
@@ -97,9 +110,12 @@ main {
     letter-spacing: 0.05em;
     color: #222;
 }
-
+.papier p {
+	text-indent: 20px;
+}
 article {
-    margin-bottom: 1.5rem;
+    margin-bottom: 2rem;
+	margin-top: 2rem;
 }
 
 article h3 {
@@ -121,8 +137,9 @@ article h3 a:hover {
 }
 
 article p {
-    color: #555;
-    font-size: 1rem;
+	text-indent: 20px;
+    color: #111;
+    font-size: 1.2rem;
 }
 
 footer {
