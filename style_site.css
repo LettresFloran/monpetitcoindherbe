@@ -113,6 +113,10 @@ main {
 .papier p {
 	text-indent: 20px;
 }
+.papier {
+	margin-top: 1.3rem;
+	margin-bottom: 1.3rem;
+}
 article {
     margin-bottom: 2rem;
 	margin-top: 2rem;
