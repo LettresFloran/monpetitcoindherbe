@@ -1,0 +1,159 @@
+/* Reset minimaliste */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #f9f8f3; /* papier un peu jauni */
+    color: #222; /* noir doux */
+    font-family: 'Courier New', Courier, monospace; /* machine à écrire */
+    font-size: 1.1rem;
+    line-height: 1.6;
+    max-width: 720px;
+    margin: 2rem auto;
+    padding: 1rem 2rem;
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 10px rgba(0,0,0,0.1);
+}
+
+header {
+    margin-bottom: 2rem;
+    border-bottom: 1px solid #bbb;
+    padding-bottom: 0.5rem;
+}
+
+h1 {
+    font-size: 2.5rem;
+    font-weight: normal;
+    letter-spacing: 0.1em;
+    margin-bottom: 0.2rem;
+    color: #111;
+}
+h4 {
+	margin-bottom: 1.2rem;
+}
+
+
+
+.subtitle {
+    font-style: italic;
+    font-size: 1rem;
+    color: #555;
+    letter-spacing: 0.05em;
+}
+
+.com{
+	margin-bottom: 1em;
+	margin-top: 1em;
+    font-style: italic;
+    font-size: 1rem;
+    color: #555;
+    letter-spacing: 0.05em;
+}
+
+.button {
+  background-color: white;
+  border: 1px solid #ccc;
+  color: #333;
+  padding: 6px 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  margin-top: 1.5em;
+  cursor: pointer;
+  border-radius: 4px;
+  transition: background-color 0.2s, color 0.2s, border-color 0.2s;
+}
+
+.button:hover {
+  background-color: #f0f0f0;
+  border-color: #999;
+  color: #000;
+}
+
+
+nav ul {
+    list-style: none;
+    margin-top: 0.8rem;
+    display: flex;
+    gap: 1.5rem;
+}
+
+nav a {
+    text-decoration: none;
+    color: #333;
+    border-bottom: 1px dotted #666;
+    font-size: 1rem;
+    transition: color 0.3s ease;
+}
+
+nav a:hover {
+    color: #000;
+    border-bottom-style: solid;
+}
+
+main {
+    margin-bottom: 3rem;
+}
+
+.intro p {
+    margin-bottom: 1.5rem;
+    font-style: italic;
+	font-size: 18px;
+    color: #444;
+	text-indent: 20px
+}
+
+
+
+
+.latest-papiers h2 {
+    margin-bottom: 1rem;
+    border-bottom: 1px solid #bbb;
+    padding-bottom: 0.3rem;
+    letter-spacing: 0.05em;
+    color: #222;
+}
+.papier{
+	text-indent: 20px;
+}
+article {
+    margin-bottom: 2rem;
+	margin-top: 2rem;
+}
+
+article h3 {
+    font-weight: normal;
+    font-size: 1.2rem;
+    margin-bottom: 0.2rem;
+}
+
+article h3 a {
+    color: #111;
+    text-decoration: none;
+    border-bottom: 1px dotted #999;
+    transition: color 0.3s ease;
+}
+
+article h3 a:hover {
+    color: #000;
+    border-bottom-style: solid;
+}
+
+article p {
+	text-indent: 20px;
+    color: #111;
+    font-size: 1.2rem;
+}
+
+footer {
+    text-align: center;
+    font-size: 0.9rem;
+    color: #666;
+    border-top: 1px solid #bbb;
+    padding-top: 1rem;
+    letter-spacing: 0.05em;
+}
