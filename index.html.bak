@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Lettres Floran — papier</title>
+  <link rel="stylesheet" href="style_site.css" />
+</head>
+<body>
+  <header>
+    <h1>Lettres Floran</h1>
+    <p class="subtitle">Vos rêves commencent où finissent mes nuits</p>
+    <nav>
+      <ul>
+        <li><a href="#">Accueil</a></li>
+        <li><a href="#about">Propos</a></li>
+        <li><a href="#papiers">Papiers</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="intro">
+      <h2>Chers voyageurs,</h2>
+	  <p>Soyez les bienvenus au creu d'Internet. C'est ici que naissent les prémices d'une herbe à peine assumée. Dans ce jardin, vous verrez des histoires,  des livres entamés et des dialogues inachevés. Parfois, selon la saison, on peut même y trouver des poèmes en fleurs. N'accordez pas trop d'importance aux mauvaises herbes qui longent l'interligne. Je les traite activement avec grammaire et dictionnaire. Si vous en trouvez écrivez moi, nous les replanterons dans un coin du jardin dédié. Que douceur et sérénité envoûtent ce lieu. Vous êtes libre d'y entrer, d'y arriver, d'y partir ou d'y revenir. Soyez libres d'y déambuler.
+	  Je sais bien, ce ne sont que des mots... grâce à vous tout est pourtant si vrai.</p>
+    </section>
+
+    <section id="papiers" class="papiers-preview">
+      <h2>Papiers publiés</h2>
+      <div class="papier">
+        <h3>papier n°01 - "Sans forme"</h3>
+        <p>Et si je vous contais une histoire ? Sans début, sans fin. Si nous...</p>
+        <a href="suite_sans_forme.html" class="button">Lire la suite</a>
+      </div>
+	  <div class="papier">
+        <h3>papier n°02 - "Yurina et le Palais Rose"</h3>
+        <p>Exercice d'écriture : <i>raconter une histoire.</i> Une héroïne, un chateau, une couleur... Bref : un petit monde à concevoir;</p>
+        <a href="yurina_et_le_palais_rose.html" class="button">Lire la suite</a>
+      </div>
+      <div class="papier">
+        <h3>papier n°03 - "Sur le quai de fatigue"</h3>
+        <p>J'use encore de quelques mots. Les idées fleurissent aux lachés de stylos. Le soleil est parti invitant mon esprit ailleurs. Sur le quai de fatigue je ne suis jamais à l'heure...</p>
+        <a href="Le_quai_de_fatigue.html" class="button">Lire la suite</a>
+      </div>
+      <div class="papier">
+        <h3>papier n°04 - "Aux Apologètes du vers libre"</h3>
+        <i>c'est un poème à ouvrir...</i>
+        <a href="Aux_apologetes_du_vers_libre.html" class="button">Ouvrir ?</a>
+      </div>
+    </section>
+  </main>
+
+  <footer id="contact">
+    <p>&copy; 2025 LettresFloran — Tous droits réservés</p>
+    <p>email : lettresfloran@gmail.com</p>
+  </footer>
+</body>
+</html>

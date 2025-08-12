@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Lettres Floran - papier n°04</title>
+  <link rel="stylesheet" href="style_site.css" />
+</head>
+<body>
+  <header>
+    <h1>Aux Apologètes du "vers libre".</h1>
+  </header>
+  <main>
+    <section class="article">
+      <article>
+        <p>Haletante ma plume sème vos esprits</p>
+        <p>De ses pas saccadés son sac à dos bondit.</p>
+        <p>Essoufflant les sentiers des surfaits sentiments</p>
+        <p>Sillonnant les quartiers des paroles au vent,</p>
+        <p>Sa rythmique implacable est sculptée dans la pierre;</p>
+        <p>Elle brise au douze milli-lettre le verre.</p>
+        <p>La structure l'enferme? Et bien attrapez là!</p>
+        <p>Vous qui êtes libres ciseleurs sans compas.</p>
+        <p>Votre mépris vous aveugle sur bien des choses;</p>
+        <p>Pour cabrer sans tomber, il faut sangler sa prose.</p>
+	  </article>
+      <a href="index.html" class="button">Revenir</a>
+      <a href="(04).html" style="text-decoration:none; color:white">eofieofiefovievheoi</a>
+    </section>
+  </main>  
+</body>
+</html>
