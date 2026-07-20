@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Lettres - papier n°07</title>
+  <link rel="stylesheet" href="style_site.css" />
+</head>
+<body>
+  <header>
+    <h1>Tu fais quoi?</h1>
+  </header>
+  <main>
+    <section class="article">
+      <article>
+        "Tu fais quoi!? me surprend la voix de la jeune guerrière.
+		-Je...j'écris un text. Enfaite c'est un poème. Oui c'est ça, un poème sur la peur."
+		Elle se penche sur mon ordinateur d'une indiscrétion qui piqua mon égo d'écrivain mystérieux:
+		"Hé ! je m'écris. Mais je t'en prie, fais comme chez toi surtout!
+		-Je rêve, tu écris pour une amie c'est ça !?"
+		Ma maîtrise des expressions émotionnelles me permet de garder un semblant d'indifférence:
+		"Qu'est-ce qui te fait dire ça?
+		-Plein de truc, annonce-t-elle en haussant les épaules, tiens par exemple les pieds dénudés, le silence, la peur, la tristesse et cette sensation de multiplicité rendant indicibles les pensées. Et puis l'odeur de la solitude, le droit à un bonheur qui pourtant se complait au milieu d'un tout sans plaisir...
+		-Oui c'est bon j'ai compris Yurina, tu n'es pas obligée d'étaler comme ça la vie d'..."
+		Je m'arrête net dans la continuité de ma phrase, réfléchis un intant et reprends:
+		"Et puis d'abord en quoi il s'agirait des sensations de quelqu'un d'autre. Pourquoi ça serait pas tout simplement les miennes, hein ? Ne puis-je pas écrire pour moi après tout?
+		-John...repond-t-elle dans une profonde expiration, si tu faisais les choses pour toi en ce moment tu ne serais pas en train d'écrire, je pense que tu dormirais. Tu penses pouvoir l'aider en écrivant cela?
+		-Je l'ignore...Je me demande même si elle a besoin d'aide, elle semble si forte."
+		Je lève les yeux vers ma correspondante, un sourire aux coins des lèvres:
+		"Un peu comme toi :)"
+		Yurina sourit à son tour nous liant ainsi d'un tendre air complice. Je reprends :
+		"Dans le doute, je fais ce que je peux pour lui tendre une main sans envahir son territoire. C'est encore un peu nouveau pour moi tu sais, le fait d'entendre une personne sans qu'aucun mot ne soit pronocé. Je veux dire, pas vraiment entendre mais percevoir. Est-ce à dire que je la comprends ? Non, ce serait précipité de ma part. Moi qui ne comprends déjà pas bien ceux qui parlent...
+		-La sincérité d'un silence vaut toujours mieux que l'insignifiance d'un son n'est-ce pas?
+		-Tu as raison Yurina. Mais...attend c'est une parole de jeune sage ça !
+		-Je suis dans ta tête John, et un peu dans celle des autres, je fais comme toi, je discute. 
+		-Alors ça y est je suis fou pour de bon!! dis-je en passant mes mains sur mes cheveux."
+		Yurina s'avançe vers moi et vient plaquer le creux de sa paume sur mon épaule gauche:
+		"Non John, tu es fatiqué, simplement fatigué. Et puis tu es encore chaud, tu n'as peut-être toi non plus pas fini de brûler. 
+	  </article>
+	  <a href="index.html" class="button">Revenir</a>
+    </section>
+  </main>  
+</body>
+</html>
